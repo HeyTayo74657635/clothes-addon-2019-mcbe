@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "dhdjdjdni ef b ce jdncjdcjdj by makincakep",
+    "name": "clothes 2019 addon",
+    "uuid": "f5a2caad-9ba2-4fb6-b320-178dd22ecdcf",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "dhdjdjdni ef b ce jdncjdcjdj by makincakep",
+      "type": "resources",
+      "uuid": "e0082bbc-8316-4277-b165-f0cf07b1d1af",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4c8e0990-8471-4775-95ba-19fd75db988c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
