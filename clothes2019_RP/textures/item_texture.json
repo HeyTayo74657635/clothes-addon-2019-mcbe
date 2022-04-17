@@ -82,8 +82,8 @@
         "cloth2019_polo10": { "textures": ["textures/items/pamobile/cloth2019_polo10"] },
 
         "cloth2019_ppg_shirt01": { "textures": ["textures/items/cloth2019_ppg_shirt01"] },
-        "cloth2019_spgbb01": { "textures": ["textures/items/pamobile/cloth2019_spgbb01"] },
-        "cloth2019_tayo_shirt01": { "textures": ["textures/items/pamobile/cloth2019_tayo_shirt01"] },
+        "cloth2019_spgbb01": { "textures": ["textures/items/cloth2019_spgbb01"] },
+        "cloth2019_tayo_shirt01": { "textures": ["textures/items/cloth2019_tayo_shirt01"] },
         "cloth2019_wbb_shirt01": { "textures": ["textures/items/cloth2019_wbb_shirt01"] },
         "cloth2019_advtime_shirt01": { "textures": ["textures/items/advtime_shirt01"] },
         "cloth2019_nyan_shirt": { "textures": ["textures/items/pamobile/cloth_nyan_shirt"] },
